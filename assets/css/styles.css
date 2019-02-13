@@ -1,5 +1,5 @@
-@import "reset.css";
-
-h1 {
-    color: blueviolet;
+.navbar .navbar-nav .nav-link {
+    display: block;
+    padding: 0.5rem 1rem;
+    color: #FFFFFF;
 }

@@ -4,6 +4,7 @@ date_default_timezone_set("Europe/Paris");
 include_once "./functions/displayTitle.php";
 include_once "./includes/html.php";
 include_once "./includes/header.php";
+include_once "./functions/debug.php";
 
 if (isset($_GET['page'])) {
     $page = $_GET['page'];
